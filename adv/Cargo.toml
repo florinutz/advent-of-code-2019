@@ -1,0 +1,13 @@
+[package]
+name = "adv"
+version = "0.1.0"
+authors = ["florin <florinutz@gmail.com>"]
+edition = "2018"
+
+[[bin]]
+name = "adv"
+path = "src/bin.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
